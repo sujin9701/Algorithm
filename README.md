@@ -4,7 +4,7 @@ Algorithm study!
 # Re-Solve
 | 제목 | 1회 | 2회 | 3회 | 4회 | 5회 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| [알파벳 개수](https://www.acmicpc.net/problem/10808) | - [x] | - [ ] | - [ ] | - [ ] | - [ ] |
+| [알파벳 개수](https://www.acmicpc.net/problem/10808) | - [x] | - [ ] |  - [ ] |-[x]|- [ ]|
 | [트럭 주차](https://www.acmicpc.net/problem/2979) | - [x] | - [ ] | - [ ] | - [ ] | - [ ] |
 | [펠린드롬인지 확인하기](https://www.acmicpc.net/problem/10988) | - [x] | - [ ] | - [ ] | - [ ] | - [ ] |
 | [농구 경기](https://www.acmicpc.net/problem/1159) | - [x] | - [ ] | - [ ] | - [ ] | - [ ] |
