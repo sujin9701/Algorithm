@@ -23,7 +23,7 @@ Algorithm study!
 | [단어 정렬](https://www.acmicpc.net/problem/1181) | | | | | |
 | [나이순 정렬](https://www.acmicpc.net/problem/10814)| | | | | |
 | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) | | | | | |
-| [곱셈](https://www.acmicpc.net/problem/1629) | | | | | |
+| [곱셈](https://www.acmicpc.net/problem/1629) | :heavy_check_mark: | | | | |
 | [빈도 정렬](https://www.acmicpc.net/problem/2910) | | | | | |
 | [수학 숙제](https://www.acmicpc.net/problem/2870) | | | | | |
 | [교수가 된 현우](https://www.acmicpc.net/problem/3474) | | | | | |
@@ -53,10 +53,10 @@ Algorithm study!
 | [알고리즘 수업 - 너비 우선 탐색 2](https://www.acmicpc.net/problem/24445) | | | | | |
 | [안전영역](https://www.acmicpc.net/problem/2468) | | | | | |
 | [영역 구하기](https://www.acmicpc.net/problem/2583) | | | | | |
-| [촌수계산](https://www.acmicpc.net/problem/2644) | | | | | |
+| [촌수계산](https://www.acmicpc.net/problem/2644) | :heavy_check_mark: | | | | |
 | [스타트링크](https://www.acmicpc.net/problem/5014) | | | | | |
 | [적록색약](https://www.acmicpc.net/problem/10026) | | | | | |
-| [치즈](https://www.acmicpc.net/problem/2636) | | | | | |
+| [치즈](https://www.acmicpc.net/problem/2636) | :heavy_check_mark: | | | | |
 | [인구이동](https://www.acmicpc.net/problem/16234) | | | | | |
 | [불!](https://www.acmicpc.net/problem/4179) | | | | | |
 | [뮤탈리스크](https://www.acmicpc.net/problem/12869) | | | | | |
@@ -79,13 +79,13 @@ Algorithm study!
 | [쿼드트리](https://www.acmicpc.net/problem/1992) | | | | | |
 | [파스칼의 삼각형](https://www.acmicpc.net/problem/16395) | | | | | |
 | [종이의 개수](https://www.acmicpc.net/problem/1780) | | | | | |
-| [사과 담기 게임](https://www.acmicpc.net/problem/2828) | | | | | |
+| [사과 담기 게임](https://www.acmicpc.net/problem/2828) | :heavy_check_mark: | | | | |
 | [오큰수](https://www.acmicpc.net/problem/17298) | | | | | |
 | [블랙잭](https://www.acmicpc.net/problem/2798) | | | | | |
 | [분해합](https://www.acmicpc.net/problem/2231) | :heavy_check_mark: | | | | |
 | [덩치](https://www.acmicpc.net/problem/7568) | | | | | |
 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | | | | | |
-| [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | | | | | |
+| [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | :heavy_check_mark: | | | | |
 | [치킨 배달](https://www.acmicpc.net/problem/15686) | | | | | |
 | [테트로미노](https://www.acmicpc.net/problem/14500) | | | | | |
 | [리모컨](https://www.acmicpc.net/problem/1107) | | | | | |
@@ -96,7 +96,7 @@ Algorithm study!
 | [피보나치 수 1](https://www.acmicpc.net/problem/24416) | | | | | |
 | [신나는 함수 실행](https://www.acmicpc.net/problem/9184) | | | | | |
 | [01타일](https://www.acmicpc.net/problem/1904) | | | | | |
-| [파도반 수열](https://www.acmicpc.net/problem/9461) | | | | | |
+| [파도반 수열](https://www.acmicpc.net/problem/9461) | :heavy_check_mark: | | | | |
 | [계단 오르기](https://www.acmicpc.net/problem/2579) | | | | | |
 | [1로 만들기](https://www.acmicpc.net/problem/1463) | | | | | |
 | [RGB거리](https://www.acmicpc.net/problem/1149) | :heavy_check_mark: | | | | |
