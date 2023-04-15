@@ -34,7 +34,7 @@ Algorithm study!
 | [로봇청소기](https://www.acmicpc.net/problem/14503) | | | | | |
 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | | | | | |
 | [톱니바퀴2](https://www.acmicpc.net/problem/15662) | | | | | |
-| [뱀](https://www.acmicpc.net/problem/3190) | | | | | |
+| [뱀](https://www.acmicpc.net/problem/3190) | :heavy_check_mark: | | | | |
 | [괄호 추가하기](https://www.acmicpc.net/problem/16637) | | | | | |
 | [문자해독](https://www.acmicpc.net/problem/1593) | | | | | |
 | [수열](https://www.acmicpc.net/problem/2559) | :heavy_check_mark: | | | | |
@@ -54,7 +54,7 @@ Algorithm study!
 | [안전영역](https://www.acmicpc.net/problem/2468) | | | | | |
 | [영역 구하기](https://www.acmicpc.net/problem/2583) | | | | | |
 | [촌수계산](https://www.acmicpc.net/problem/2644) | :heavy_check_mark: | | | | |
-| [스타트링크](https://www.acmicpc.net/problem/5014) | | | | | |
+| [스타트링크](https://www.acmicpc.net/problem/5014) | :heavy_check_mark: | | | | |
 | [적록색약](https://www.acmicpc.net/problem/10026) | | | | | |
 | [치즈](https://www.acmicpc.net/problem/2636) | :heavy_check_mark: | | | | |
 | [인구이동](https://www.acmicpc.net/problem/16234) | | | | | |
@@ -62,7 +62,7 @@ Algorithm study!
 | [뮤탈리스크](https://www.acmicpc.net/problem/12869) | | | | | |
 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | | | | | |
 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | | | | | |
-| [컴백홈](https://www.acmicpc.net/problem/1189) | | | | | |
+| [컴백홈](https://www.acmicpc.net/problem/1189) | :heavy_check_mark: | | | | |
 | [거짓말](https://www.acmicpc.net/problem/1043) | | | | | |
 | [알파벳](https://www.acmicpc.net/problem/1987) | | | | | |
 | [빙산](https://www.acmicpc.net/problem/2573) | | | | | |
@@ -78,7 +78,7 @@ Algorithm study!
 | [숨바꼭질4](https://www.acmicpc.net/problem/13913) | | | | | |
 | [쿼드트리](https://www.acmicpc.net/problem/1992) | | | | | |
 | [파스칼의 삼각형](https://www.acmicpc.net/problem/16395) | | | | | |
-| [종이의 개수](https://www.acmicpc.net/problem/1780) | | | | | |
+| [종이의 개수](https://www.acmicpc.net/problem/1780) | :heavy_check_mark: | | | | |
 | [사과 담기 게임](https://www.acmicpc.net/problem/2828) | :heavy_check_mark: | | | | |
 | [오큰수](https://www.acmicpc.net/problem/17298) | | | | | |
 | [블랙잭](https://www.acmicpc.net/problem/2798) | | | | | |
